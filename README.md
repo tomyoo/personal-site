@@ -1,2 +1,3 @@
 # personal-site
-Personal site design
+
+Personal site design by Thomas Yoo
